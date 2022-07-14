@@ -1,6 +1,6 @@
 # UNES University
 
-This project is a institutional website about a fictional university named UNES.
+This project is an institutional website about a fictional university named UNES.
 It was coded with HTML5 only, with the purpose of showing that it's possible to 
 create a website structured with HTML table tags and some other essential HTML tags.
 
