@@ -1,8 +1,6 @@
 # UNES University
 
-This project is a prototype of an institutional website about a fictional university named UNES.
-It was coded with HTML5 only, with the purpose of showing that it's possible to 
-create a website structured with HTML table tags and some other essential HTML tags.
+This project is a prototype of an institutional website about a fictional university named UNES. It was coded with HTML only, with the purpose of showing that it's possible to create a website structured with HTML table tags and some other essential HTML tags.
 
 ## Screenshot 
 
@@ -10,5 +8,5 @@ create a website structured with HTML table tags and some other essential HTML t
 
 ## Technology Stack
 
-+ HTML5
++ HTML
 + Image Editing
