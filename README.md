@@ -1,6 +1,6 @@
 # UNES University
 
-This project is a prototype of an institutional website about a fictional university named UNES. It was structured with simple HTML elements.
+This project is a prototype of an institutional website about a fictional university named UNES, the purpose of the project was to structure a simple website prototype with basic web tags and web elements.
 
 ## Screenshot 
 
@@ -8,4 +8,4 @@ This project is a prototype of an institutional website about a fictional univer
 
 ## Technology Stack
 
-+ [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
++ HTML
