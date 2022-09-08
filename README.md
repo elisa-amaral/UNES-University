@@ -8,4 +8,6 @@ This project is a prototype of an institutional website about a fictional univer
 
 ## Technology Stack
 
+The project was built with:
+
 + HTML
