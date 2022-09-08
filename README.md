@@ -8,4 +8,4 @@ This project is a prototype of an institutional website about a fictional univer
 
 ## Technology Stack
 
-+ HTML
++ [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
